@@ -1,0 +1,49 @@
+Geschlecht,Alter, Händigkeit,Äugigkeit,Visus,Abschluss,Beruf,Finanzen,Familienstand
+w,28,rechts,rechts,normal,abgesch. Studium,Student,500-999,verheiratet mit Ehepartner lebend
+w,22,links,rechts,normal,Abitur,Student,500-999,ledig
+w,21,beides,links,normal,Abitur,Student,500-999,ledig
+w,55,rechts,beide,normal,Abitur,Student,2000 und mehr,verheiratet mit Ehepartner lebend
+w,21,rechts,links,normal,Abitur,Student,0-499,ledig
+w,21,rechts,links,normal,Abitur,Student,0-499,ledig
+w,22,rechts,links,normal,Abitur,Student,0-499,ledig
+w,22,rechts,rechts,normal,Abitur,Student,500-999,ledig
+w,25,links,links,normal,Abitur,nicht berufstätig,500-999,ledig
+w,25,beides,beide,normal,Abitur,Student,0-499,ledig
+w,47,rechts,rechts,normal,realschulabschluss,Werkerin,1000-1900,ledig
+w,26,rechts,links,normal,Abitur,Student,500-999,ledig
+w,26,rechts,rechts,normal,realschulabschluss,Mechanikerin,2000 und mehr,ledig
+w,43,rechts,rechts,normal,realschulabschluss,Bürokauffrau,1000-1900,ledig
+w,23,rechts,rechts,normal,Abitur,Student,0-499,ledig
+w,22,rechts,links,normal,abgesch. Studium,Student,500-999,ledig
+w,22,rechts,rechts,normal,Abitur,Student,0-499,ledig
+w,19,rechts,links,normal,Abitur,Student,500-999,ledig
+w,23,rechts,rechts,normal,abgesch. Studium,Student,0-499,ledig
+w,19,links,links,normal,Abitur,Student,0-499,ledig
+w,25,rechts,links,normal,Abitur,Student,500-999,ledig
+w,19,rechts,links,normal,Abitur,Student,0-499,ledig
+w,22,rechts,links,normal,Abitur,Student,0-499,ledig
+w,19,links,rechts,normal,Abitur,Student,500-999,ledig
+w,23,rechts,rechts,normal,Abitur,Student,0-499,ledig
+w,19,rechts,links,normal,Abitur,Student,500-999,ledig
+w,23,rechts,links,normal,Abitur,Student,500-999,ledig
+w,21,rechts,links,normal,Abitur,Student,500-999,ledig
+w,22,rechts,rechts,normal,abgesch. Studium,Student,1000-1900,ledig
+w,22,rechts,rechts,normal,Abitur,Student,0-499,ledig
+m,22,rechts,rechts,normal,Abitur,Student,500-999,ledig
+m,27,links,rechts,normal,abgesch. Studium,Softwareentwickler,2000 und mehr,ledig
+m,23,rechts,rechts,normal,Abitur,Optiker,1000-1900,ledig
+m,19,beides,links,normal,Abitur,Student,0-499,ledig
+m,22,rechts,rechts,normal,abgesch. Studium,Student,500-999,ledig
+m,21,rechts,links,normal,Abitur,Student,1000-1900,ledig
+m,23,links,rechts,normal,Abitur,Student,500-999,ledig
+m,26,rechts,rechts,normal,abgesch. Studium,Student,500-999,ledig
+m,19,rechts,rechts,normal,Abitur,Student,500-999,ledig
+m,24,rechts,links,normal,Abitur,Fluggerätmechaniker,1000-1900,ledig
+m,23,rechts,links,normal,Abitur,Student,1000-1900,ledig
+w,21,rechts,rechts,normal,Abitur,Student,500-999,ledig
+w,21,rechts,links,normal,Abitur,Student,0-499,ledig
+w,20,rechts,rechts,normal,Abitur,Student,0-499,ledig
+w,24,rechts,rechts,normal,abgesch. Studium,Student,500-999,ledig
+m,22,rechts,links,"Normal, rot-grün-blind",Abitur,Student,500-999,ledig
+w,26,rechts,rechts,normal,realschulabschluss,Krankenpflegerin,2000 und mehr,ledig
+m,22,rechts,links,normal,Abitur,Student,500-999,ledig
